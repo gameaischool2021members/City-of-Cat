@@ -65,8 +65,5 @@ public class CatNPC : MonoBehaviour
         {
             ChooseIdleOrWander();
         }
-
-        if (agent.velocity.sqrMagnitude > 0.1f)
-            animator.SetBool("walk", true);
     }
 }

@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/scene_OllieTest.unity
+    guid: d5f580bc866dfdf43ba8c828d717b42f
   m_configObjects: {}
