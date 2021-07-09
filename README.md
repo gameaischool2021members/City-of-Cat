@@ -6,7 +6,7 @@ Welcome to Cat City!
 A procedurally generated town inhabited only by stray cats. Can you discover the dark secret of what happend here?
 (You can't im afraid, no dark secrets have been implemented yet)
 
-This tech demo was created by:
+This tech demo was created in Unity by:
 Thomas Hsueh, 
 Georgios Karafotias & 
 Oliver Withington
