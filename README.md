@@ -27,4 +27,4 @@ Navmeshes and Finite State Machines for the stray cats
 Video Demo: https://youtu.be/iXfLCiOBma4
 
 Itch.io Link: https://krellface.itch.io/city-of-cat
-
+(N.B : Generation can sometimes fail on Itch io, especially on the larger map sizes)
